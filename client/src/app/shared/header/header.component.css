@@ -1,0 +1,10 @@
+.navbar {
+    box-shadow: 0px 1px 9px black;
+    background-color: white;
+}
+.navbar-item{
+    text-decoration: none;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
